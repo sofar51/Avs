@@ -1,1 +1,7 @@
-
+{
+  "name": "crypton",
+  "website": "https://github.com/cryptoneth",
+  "description": "there is no gravity here",
+  "logo": "https://raw.githubusercontent.com/cryptoneth/Aligned/main/download.png",
+  "twitter": "https://twitter.com/Crypton_calls"
+}
